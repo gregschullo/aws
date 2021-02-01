@@ -3,7 +3,7 @@ import json
 import subprocess
 
 bucketName = "example-bucket"
-endpointURL = "https://s3api-core.uhc.com"
+endpointURL = "https://s3api-example.com"
 
 # Set default value for bucketExists to False
 bucketExists = False
